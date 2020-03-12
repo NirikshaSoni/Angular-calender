@@ -1,0 +1,10 @@
+<body>
+  <app-nav-menu></app-nav-menu>
+  <div class="container">
+    <router-outlet></router-outlet>
+    <app-calendar #myCalendar   (dateSelected)="dateSelected($event)">
+    </app-calendar>
+
+    <ngx-fullcalendar defaultView="month" [events]="events" [options]="options"></ngx-fullcalendar>
+  </div>
+</body>

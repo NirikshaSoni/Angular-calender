@@ -1,0 +1,14 @@
+<div class="calendar-wrapper">
+  <button mat-button (click)="prevDay($event)">Prev</button>
+  <button mat-button (click)="today($event)">Today</button>
+  <button mat-button (click)="nextDay($event)">Next</button>
+
+  <!--<mat-calendar #calendar (monthSelected)="monthSelected($event)" [(selected)]="selectedDate" (selectedChange)="dateChanged($event)">
+  </mat-calendar>-->
+  <mat-calendar #calendar [selected]="selectedDate"
+                [startAt]="startAt"
+                [minDate]="minDate"
+                [maxDate]="maxDate"
+                [dateFilter]="myDateFilter"
+                (selectedChange)="onSelect($event)"></mat-calendar>
+</div>

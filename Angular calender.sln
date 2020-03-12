@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular calender", "Angular calender\Angular calender.csproj", "{63947356-0F89-4BE9-A0F1-DFD379EE04ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63947356-0F89-4BE9-A0F1-DFD379EE04ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63947356-0F89-4BE9-A0F1-DFD379EE04ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63947356-0F89-4BE9-A0F1-DFD379EE04ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63947356-0F89-4BE9-A0F1-DFD379EE04ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAADE6A5-AAE4-4F97-A583-362B43E5BC2C}
+	EndGlobalSection
+EndGlobal

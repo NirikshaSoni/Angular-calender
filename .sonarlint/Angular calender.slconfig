@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "KPMG",
+  "ProjectName": "kpmg",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXCqkq8h2GDD2zbI_y9x",
+      "ProfileTimestamp": "2020-03-05T12:01:44Z"
+    }
+  }
+}
