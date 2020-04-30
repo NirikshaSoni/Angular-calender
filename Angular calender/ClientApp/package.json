@@ -35,7 +35,7 @@
     "fullcalendar": "^4.0.0-alpha.4",
     "fullcalendar-scheduler": "^4.0.0-alpha.4",
     "gulp": "^4.0.2",
-    "jquery": "3.3.1",
+    "jquery": "3.5.0",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
     "ngx-fullcalendar": "^5.0.0-alpha.0",
